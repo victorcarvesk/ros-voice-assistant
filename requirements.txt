@@ -1,0 +1,6 @@
+gtts==2.5.4
+pip==24.0
+pyaudio==0.2.14
+pygame==2.6.1
+sounddevice==0.5.1
+speechrecognition==3.11.0
